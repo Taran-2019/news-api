@@ -1,0 +1,172 @@
+.bitcoin{
+    margin: 10px;
+    flex: 0 0 23%;
+    cursor:pointer; 
+    display:flex;
+    padding:30px;
+    word-wrap: normal;
+    /*flex-direction: column;*/
+    border: solid blue;
+    background-image: url("C:\Users\Taran\Desktop\project\news-api\bitcoin.jpg");
+    background-size: 400px 170px;
+    background-repeat: no-repeat;
+    height:350px;
+    justify-content: center;
+    text-align:center;
+    color: black;
+    font-size: 20px;
+    
+}
+
+.bitcoin:hover{
+    position: relative;
+    
+    
+    
+      height: 350px;
+      transition:0.5s;
+      
+      
+      border: solid blue;
+      background-color: rgb(212, 240, 113);
+        
+    }
+
+.us{
+    margin: 10px;
+    flex: 0 0 23%;
+    cursor:pointer; 
+    display:flex;
+    padding:30px;
+    word-wrap: normal;
+    /*flex-direction: column;*/
+    border: solid blue;
+    background-image: url("C:\Users\Taran\Desktop\project\news-api\us.jpg");
+    background-size: 400px 170px;
+    background-repeat: no-repeat;
+    height:350px;
+    justify-content: center;
+    text-align:center;
+    color: black;
+    font-size: 20px;
+    
+}
+
+.us:hover{
+    position: relative;
+    
+    
+    
+      height: 350px;
+      transition:0.5s;
+      
+      
+      border: solid blue;
+      background-color: rgb(236, 188, 125);
+        
+    }
+
+
+.apple{
+    margin: 10px;
+    flex: 0 0 23%;
+    cursor:pointer; 
+    display:flex;
+    padding:30px;
+    word-wrap: normal;
+    /*flex-direction: column;*/
+    border: solid blue;
+    background-image: url("C:\Users\Taran\Desktop\project\news-api\apple.jpg");
+    background-size: 400px 150px;
+    background-repeat: no-repeat;
+    height:350px;
+    justify-content: center;
+    text-align:center;
+    color: black;
+    font-size: 20px;
+    
+}
+
+
+.apple:hover{
+    position: relative;
+    
+    
+    
+      height: 350px;
+      transition:0.5s;
+      
+      
+      border: solid blue;
+      background-color: rgb(240, 193, 237);
+        
+    }
+
+.tech{
+    margin: 10px;
+    flex: 0 0 23%;
+    cursor:pointer; 
+    display:flex;
+    padding:30px;
+    word-wrap: normal;
+    /*flex-direction: column;*/
+    border: solid blue;
+    background-image: url("C:\Users\Taran\Desktop\project\news-api\tech.jpg");
+    background-size: 400px 170px;
+    background-repeat: no-repeat;
+    height:350px;
+    justify-content: center;
+    text-align:center;
+    color: black;
+    font-size: 20px;
+    
+}
+
+
+
+.tech:hover{
+    position: relative;
+    
+    
+    
+      height: 350px;
+      transition:0.5s;
+      
+      
+      border: solid blue;
+      background-color: rgb(139, 236, 207);
+        
+    }
+.wall{
+    margin: 10px;
+    flex: 0 0 23%;
+    cursor:pointer; 
+    display:flex;
+    padding:30px;
+    word-wrap: normal;
+    /*flex-direction: column;*/
+    border: solid blue;
+    background-image: url("C:\Users\Taran\Desktop\project\news-api\wallstreet.jpg");
+    background-size: 400px 200px;
+    background-repeat: no-repeat;
+    height:350px;
+    justify-content: center;
+    text-align:left;
+    color: black;
+    font-size: 20px;
+    
+}
+.wall:hover{
+position: relative;
+
+
+
+  height: 350px;
+  transition:0.5s;
+  
+  
+  border: solid blue;
+  background-color: rgb(137, 215, 241);
+    
+}
+

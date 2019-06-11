@@ -1,0 +1,18 @@
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.child-container {
+    margin: 10px;
+    flex: 0 0 31%;
+    width: 100px; 
+    display:flex;
+    padding:30px;
+    word-wrap: normal;
+    flex-direction: column;
+    border: solid blue;
+    align-items: flex-start;
+    height:100px;
+    justify-content: center;
+}
